@@ -122,12 +122,7 @@ public class Composicion1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-System.out.println("\t\tUniversidad de las Fuerzas Armadas ESPE - Sede Latacunga \n");
-     
-System.out.println("Nombre: Ortiz Hector ");
-System.out.println("Materia: PROGRAMACION");
-System.out.println("Docente: Ing. Luis Guerra");
-System.out.println("Tema: COMPOSICION\n");
+
 
 //declaracion y definicion de objetos
 Libro Controles_Instrumentos=new Libro("Arranque y apagado del motor",1234345296,"Chevrolet",2020);
